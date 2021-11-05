@@ -11,8 +11,8 @@ public class Main {
 		for(int j =0;j<mas.length;j++) {
 			 mas2 [j]= mas[j]*2;
 		}
-		System.out.print(Arrays.toString(mas));
-		System.out.print(Arrays.toString(mas2));
+		System.out.println(Arrays.toString(mas));
+		System.out.println(Arrays.toString(mas2));
 	}
 	
 
